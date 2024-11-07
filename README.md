@@ -8,8 +8,8 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone <ссылка_на_репозиторий>
-   cd <папка_с_репозиторием>
+   git clone https://github.com/pelevin-petr/to-do-backend
+   cd to-do-backend
    
 2. **Настройте файл .env:**
 
@@ -25,4 +25,4 @@
    ```bash
    docker-compose up --build
 
-#### Всё, далее вам надо проследовать [сюда]() и подгрузить репозиторий с фронтендом
+#### Всё, далее вам надо проследовать [сюда](https://github.com/pelevin-petr/to-do-frontend) и подгрузить репозиторий с фронтендом
